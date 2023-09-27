@@ -1,0 +1,15 @@
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/yvettelerma/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/yvettelerma/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/yvettelerma/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/yvettelerma/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/yvettelerma/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/yvettelerma/Projects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll
